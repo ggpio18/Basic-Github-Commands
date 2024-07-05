@@ -7,11 +7,11 @@ git clone <https url>
 
 # SINGINING IN
 ```
-git config --global user.<EMAIL>
+git config --global user."EMAIL"
 ```
 
 ```
-git config --global user.<username>
+git config --global user."username"
 ```
 
 # PUSH
