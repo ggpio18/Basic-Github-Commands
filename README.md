@@ -1,7 +1,9 @@
 # GITHUB COMMANDS PIO
 
 ## CLONING
+```
 git clone <https url>
+```
 
 SINGINING IN
 git config --global user.<EMAIL>
