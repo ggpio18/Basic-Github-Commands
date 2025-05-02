@@ -27,6 +27,11 @@ git add .
 git commit -m "first commit"
 ```
 
+# Change commit message
+```
+git commit --ammend -m "change 1st commit msg"
+```
+
 ```
 git push -u origin main
 ```
